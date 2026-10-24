@@ -21,10 +21,10 @@ Analyzed 500,000+ transactional records to understand customer retention and rev
 
 ## 📸 Visualizations
 *Customer Retention Heatmap*
-![Customer Retention](images/customer_retention.png)
+![Customer Retention](images/Customer_Retention.png)
 
 *Revenue Retention Heatmap*
-![Revenue Retention](images/revenue_retention.png)
+![Revenue Retention](images/Revenue_Retention.png)
 
 ## 🚀 How to Replicate
 1. Open `cohort_analysis.ipynb` in Google Colab.
